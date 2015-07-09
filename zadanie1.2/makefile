@@ -1,0 +1,2 @@
+all:
+	gcc process2.c -o process2
